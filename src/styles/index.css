@@ -1,0 +1,46 @@
+@import url('./contacts.css');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    height: 200px;
+}
+
+.login-container {
+    background-color: #fff;
+    padding: 0 40px;
+    padding-top: 40px;
+    border-radius: 20px;
+    min-width: 450px;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+.input-container > p {
+    color: #465371;
+}
+
+.input-container > p > a {
+    color: #465371;
+    font-weight: bold;
+}
+
+.btn-login {
+    background-color: #465371;
+    color: #fff;
+}
+
+.table-head {
+    background-color: #465371;
+    color: #fff;
+}
