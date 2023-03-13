@@ -6,4 +6,6 @@ npm install
 
 despues de eso basta con usar el comando
 
-npm run dev para correr la aplicacion
+npm run dev 
+
+para correr la aplicacion
